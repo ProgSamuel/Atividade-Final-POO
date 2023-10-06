@@ -4,15 +4,16 @@
 
 ## feature 3 [] 
 
-### Likes and reply []
-### feature 7 & 8 []
+## Likes and reply [ok]
 
 ## feature 4 [ok]
 
-## feature 5 []
+## feature 5 [ok]
 
-## feature 6 []
+## feature 6 [ok]
 
-## feature 7 []
+## feature 7 [ok]
 
-## feature 8 []
+## feature 8 [ok]
+
+## feature 9 [ok]
